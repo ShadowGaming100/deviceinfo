@@ -1,1 +1,1 @@
-# deviceinfo.github.ik
+# deviceinfo.github.io
